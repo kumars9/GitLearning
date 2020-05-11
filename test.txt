@@ -2,5 +2,4 @@ This is test file
 
 I am going to do some testing here
 
-Git revert test.
-
+I have done my testing .
