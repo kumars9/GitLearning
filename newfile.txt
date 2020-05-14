@@ -1,1 +1,4 @@
-this is n[28~ew file
+
+this is new file
+
+I am checking git revert command 
