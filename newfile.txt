@@ -1,8 +1,0 @@
-
-this is new file
-
-I am checking git revert command
-
-command is not working
-
-Edit 3
